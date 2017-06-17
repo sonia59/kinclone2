@@ -1,0 +1,528 @@
+
+body{
+	color: black;
+	font-family: Georgia;
+}
+
+#header{
+	min-height: 10vh;
+	width: 100%;
+	background-color: black;
+}
+
+
+.list-inline{
+	position: absolute;
+	top: 30px;
+	left: 1200px;
+	font-size: 20px;
+	color: white;
+}
+.navbar-nav a:hover{
+	background-color: black;
+}
+
+a{
+	color: black;
+}
+
+
+}
+
+ ul {
+	list-style: none; 
+}
+
+.lol{
+	position: relative;
+	right: 1400%;
+}
+
+.lol1{
+	position: relative;
+	right: 1150%;
+}
+
+.lol2{
+	position: relative;
+	right: 850%;
+}
+
+.lil{
+	position: relative;
+	top: 20%;
+}
+
+.nav{
+	position: relative;
+	top: 20px;
+	font-size: 14px;
+}
+
+.nav a{
+	font-size: 18px; 
+	color: white;
+}
+.nav a:hover{
+	background-color: black;
+	text-decoration: none;
+}
+.fa{
+	color: white;
+}
+
+.wrapper{
+	min-height: 15vh;
+	/*width: 100%;
+	background-color: grey;*/
+}
+
+.card{
+	height: 10vh;
+	width: 7%;
+	float: left;
+	margin-left: 20px;
+	position: relative;
+	left: 200px;
+	padding-top: 10px;
+	font-weight: bold;
+	font-size: 12px;
+
+
+
+}
+
+
+.bar{
+	height: 9vh;
+	width: 70%;
+	
+
+}
+.bat{
+	height: 9vh;
+	width: 80%;
+}
+
+.pei{
+	height: 9vh;
+	width: 90%;
+}
+
+.poi{
+	height: 9vh;
+	width: 90%;
+}
+
+.vel{
+	height: 9vh;
+	width: 90%;
+}
+
+
+.vol{
+	height: 9vh;
+	width: 80%;
+}
+
+
+.vil{
+	height: 9vh;
+	width: 70%;
+
+}
+
+
+
+.wrapper1{
+	min-height: 95vh;
+	width: 100%;
+	background-color: rgb(9,93,103);
+}
+
+.heading{
+	position: relative;
+	top: 70px;
+	color: white;
+
+}
+h1{
+   	font-size: 40px;
+}
+
+.button{
+	min-height: 9vh;
+	width: 15%;
+	position: relative;
+	left: 350px;
+	top: 60px;
+	background-color: black;
+	color: white;
+}
+
+
+
+.gos{
+	position: relative;
+	top: 300px;
+	left: -100px;
+	width: 50%;
+}
+
+
+.container{
+	min-height: 70vh;
+}
+
+.feature a:hover{
+      color: black;   
+}
+
+h2{
+	font-weight: bold;
+}
+
+
+.wrapper2{
+	min-height: 75vh;
+	background-color: #eee;
+	font-weight: bold;
+}
+
+
+.left{
+	width: 50%;
+	/*height: 600px;*/
+	background-color: #eee;
+	float: left;
+	/*position: relative;*/
+	min-height: 75vh;
+	position: relative;
+	left: 35px;
+	
+}
+
+
+
+
+.button1{
+	min-height: 7vh;
+	width: 28%;
+	background-color: black;
+	position: relative;
+	top: 150px;
+	left: -100px;
+	color: white;
+	
+}
+
+
+.button1:hover{
+	background-color: grey;
+
+}
+
+.wrapper2 img{
+	position: relative;
+	left: 150px;
+}
+
+u{
+	position: relative;
+	left: -250px;
+	top: 250px;
+	color: black;
+}
+
+
+.right{
+	width: 50%;
+	background-color: #eee;
+    float: right;
+    min-height: 75vh;
+    position: relative;
+    right: 20px;
+}
+
+.right img{
+	position: relative;
+	right: 50px;
+}
+
+ins{
+	font-weight: bold;
+	color: black;
+}
+
+
+
+
+
+
+
+.right u{
+	position: relative;
+	right: 50px;
+	top: 250px;
+	color: black;
+}
+
+
+
+.button2{
+	min-height: 7vh;
+	width: 28%;
+	background-color: black;
+	position: relative;
+	top: 180px;
+	right:  70px;
+	color: white;
+}
+
+
+
+.button2:hover{
+	background-color: grey;
+
+}
+
+
+.wrapper3{
+	min-height: 85vh;
+	width: 100%;
+}
+
+#nun{
+	text-align: left;
+	position: relative;
+	left: 249px;
+}
+
+.row u{
+position: relative;
+top: 50px;
+left: -45px;
+font-weight: bold;
+}
+
+
+
+.wrapper4{
+	min-height: 50vh;
+	width: 100%;
+	background-color: #eee;
+
+}
+
+
+h4{
+	font-weight: bold;
+	font-size: 30px;
+	color: black;
+}
+
+.btn-default{
+	color: white;
+	background-color: black;
+}
+
+.btn-default:hover{
+	     background-color: grey;
+	     color: white;
+}
+
+
+.wrapper5{
+	background-image: url("../imageskind/homepage_pressed_strawberry.png");
+	height: 550px;
+	background-size: cover;
+	padding-top: 50px;
+	text-align: center;
+	
+
+}
+
+
+.lead h1{
+   font-size: 40px;
+   font-weight: bold;
+   color: black;
+}
+
+
+.lead h6{
+font-weight: bold;
+}
+
+.wrapper6{
+
+	min-height: 45vh;
+	background-color: #eee;
+	padding-top: 50px;
+}
+
+.wrapper6 h2{
+	font-size: 50px;
+}
+
+
+.wrapper7{
+	min-height: 150vh;
+	background-color: black;
+}
+
+.card1{
+	min-height: 70vh;
+	width: 25%;
+	background-color: white;
+	float: left;
+	position: relative;
+	bottom: 50px;
+	left: 90px;
+	margin-left: 20px;
+}
+
+.ser{
+	min-height: 45vh;
+	width: 100%;
+}
+
+span{
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.btn-success{
+	color: black;
+	background-color: white;
+	height: 40px;
+	width: 120px;
+	border: solid;
+	font-size: 10px;
+	border-radius: 0px;
+}
+
+
+.btn-success:hover{
+	color: white;
+	background-color: black;
+	border: solid;
+}
+
+
+.sir{
+	min-height: 45vh;
+	width: 100%;
+}
+
+.sor{
+	min-height: 45vh;
+	width: 100%;
+}
+.card2{
+	height: 25px;
+	width:20%;
+	float: left;
+	position: relative;
+	top: 100px;
+	margin-left: 9px;
+	color: white;
+	margin-top: 50px;
+}
+
+
+.card2 a{
+	color: white;
+}
+
+.circle{
+	border: solid;
+	border-color: white;
+
+}
+
+ul{
+	list-style: none;
+
+}
+
+.ere{
+	position: relative;
+	left: -70px;
+}
+
+
+.eri{
+position: relative;
+	left: -90px;	
+}
+
+
+.eru{
+	position: relative;
+	left: -100px;
+}
+
+
+.ero{
+	position: relative;
+	right:  -900px;
+    top: -70px;
+}
+
+
+.fa-facebook{
+	position: relative;
+	left: 800px;
+	top: -70px;
+}
+
+.fa-facebook:hover{
+          color: black;
+	background-color: white;	
+}
+
+
+.fa-instagram{
+	position: relative;
+	left: 810px;
+	top: -70px;
+	
+}
+
+.fa-instagram:hover{
+	color: black;
+	background-color: white;
+	
+}
+
+
+.fa-twitter{
+	position: relative;
+	left: 830px;
+	top: -70px;
+}
+
+.fa-twitter:hover{
+	color: black;
+	background-color: white;
+	
+}
+
+.fa-medium{
+	position: relative;
+	left: 860px;
+	top: -70px;
+}
+
+
+.fa-medium:hover{
+	color: black;
+	background-color: white;
+	
+}
+
+.text-justify{
+	position: relative;
+	top: 90px;
+}
