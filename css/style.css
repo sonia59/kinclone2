@@ -1,0 +1,476 @@
+body{
+	color: black;
+	font-family: Georgia;
+}
+
+#header{
+	min-height: 10vh;
+	width: 100%;
+	background-color: black;
+}
+
+
+.list-inline{
+	position: absolute;
+	top: 30px;
+	left: 1200px;
+	font-size: 20px;
+	color: white;
+}
+.navbar-nav a:hover{
+	background-color: black;
+}
+
+a{
+	color: black;
+}
+
+
+}
+
+ ul {
+	list-style: none; 
+}
+
+.lol{
+	position: relative;
+	right: 1400%;
+}
+
+.lol1{
+	position: relative;
+	right: 1150%;
+}
+
+.lol2{
+	position: relative;
+	right: 850%;
+}
+
+.lil{
+	position: relative;
+	top: 20%;
+}
+
+.nav{
+	position: relative;
+	top: 20px;
+	font-size: 14px;
+}
+
+.nav a{
+	font-size: 18px; 
+	color: white;
+}
+.nav a:hover{
+	background-color: black;
+	text-decoration: none;
+}
+.fa{
+	color: white;
+}
+
+.wrapper{
+	min-height: 15vh;
+	/*width: 100%;
+	background-color: grey;*/
+}
+
+.card{
+	height: 10vh;
+	width: 7%;
+	float: left;
+	margin-left: 20px;
+	position: relative;
+	left: 200px;
+	padding-top: 10px;
+	font-weight: bold;
+	font-size: 12px;
+
+
+
+}
+
+
+.bar{
+	height: 9vh;
+	width: 70%;
+	
+
+}
+.bat{
+	height: 9vh;
+	width: 80%;
+}
+
+.pei{
+	height: 9vh;
+	width: 90%;
+}
+
+.poi{
+	height: 9vh;
+	width: 90%;
+}
+
+.vel{
+	height: 9vh;
+	width: 90%;
+}
+
+
+.vol{
+	height: 9vh;
+	width: 80%;
+}
+
+
+.vil{
+	height: 9vh;
+	width: 70%;
+
+}
+
+.wrapper1{
+	min-height: 50vh;
+	width: 100%;
+	color: black;
+	position: relative;
+	top: 30px;
+}
+
+
+.wrapper1 h1{
+      font-weight: bold;
+      font-size: 40px;
+}
+
+.wrapper1 h4{
+    font-weight: bold;
+      font-size: 20px;
+}
+
+.wrapper1 p{
+     
+      font-size: 18px;
+}
+
+
+.fa-repeat{
+	position: relative;
+	left: 10px;
+	color: black;
+}
+
+
+.wrapper2{
+	min-height: 45vh;
+
+}
+
+.wrapper2 p{
+
+	position: relative;
+	top: 40px;
+    font-size: 18px;
+
+}
+
+
+
+.wrapper2 h1{
+    font-weight: bold;
+      font-size: 40px;
+      position: relative;
+      top: 30px;
+}
+
+
+.wrapper2 h4{
+     font-weight: bold;
+      font-size: 20px;
+}
+
+
+
+
+
+.wrapper2 a{
+     position: relative;
+     top: 90px;
+
+}
+
+.wrapper2 a:hover{
+       color: black;
+}
+
+u{
+	width: 10px;
+	height: 50px;
+}
+
+
+.wrapper3{
+
+	min-height: 65vh;
+    background-color: #61B4E4;
+    color: white;
+}
+
+
+.text-left{
+	position: relative;
+	left: 90px;
+	top: 60px;
+	color: white;
+}
+
+.wrapper3 p{
+	font-size: 16px;
+}
+
+
+.wrapper3 h4{
+   font-weight: bold;
+   color: white;
+}
+
+
+.wrapper3 a{
+    color: white;
+}
+
+
+
+.lid{
+   min-height: 20vh;
+   width: 100%;
+   position: relative;
+   top: 0px;
+   /*padding-top: 45px;*/
+  
+
+}
+
+
+
+.lid h2{
+
+	font-size: 55px;
+	font-weight: bold;
+	
+}
+
+
+.lid p{
+    font-size: 20px;
+    color: black;
+    position: relative;
+    top: 20px;
+    left: 130px;
+}
+
+.lid h5{
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+.lid h6{
+
+	position: relative;
+	top: 30px;
+	left: 100px;
+	color: grey;
+}
+
+.btn-success{
+	color: black;
+	background-color: white;
+	height: 40px;
+	width: 140px;
+	border: solid;
+	font-size: 12px;
+	border-radius: 0px;
+    position: relative;
+	left: -20px;
+	top: 20px;
+}
+
+
+.btn-success:hover{
+	color: white;
+	background-color: black;
+	border: solid;
+}
+
+
+.lod{
+	position: relative;
+	top: -120px;
+	left: -250px;
+	width: 18%;
+}
+
+.ter{
+
+	min-height: 40vh;
+	width: 100%;
+	background-color: #eee;
+}
+
+span {
+	font-size: 25px;
+	font-weight: bold;
+	position: relative;
+	top: 60px;
+	left: -20px
+}
+
+.ter p{
+   position: relative;
+   top: 70px;
+   font-size: 18px
+}
+
+.btn-default{
+	position: relative;
+	top: 100px;
+   color: black;
+   background-color:#eee ;
+   border:solid;
+   border-radius: 0px;
+
+
+}
+
+.btn-default:hover{
+	
+   color: white;
+   background-color: black;
+   
+
+}
+
+.tor{
+	min-height: 60vh;
+	background-color: black;
+}
+
+
+.card2{
+	height: 25px;
+	width:20%;
+	float: left;
+	position: relative;
+	top: 100px;
+	margin-left: 9px;
+	color: white;
+	margin-top: 50px;
+}
+
+
+.card2 a{
+	color: white;
+}
+
+.circle{
+	border: solid;
+	border-color: white;
+
+}
+
+ul{
+	list-style: none;
+
+}
+
+.ere{
+	position: relative;
+	left: -70px;
+}
+
+
+.eri{
+position: relative;
+	left: -90px;	
+}
+
+
+.eru{
+	position: relative;
+	left: -100px;
+}
+
+
+.ero{
+	position: relative;
+	right:  -900px;
+    top: -70px;
+}
+
+
+.fa-facebook{
+	position: relative;
+	left: 800px;
+	top: -70px;
+}
+
+.fa-facebook:hover{
+          color: black;
+	background-color: white;	
+}
+
+
+.fa-instagram{
+	position: relative;
+	left: 810px;
+	top: -70px;
+	
+}
+
+.fa-instagram:hover{
+	color: black;
+	background-color: white;
+	
+}
+
+
+.fa-twitter{
+	position: relative;
+	left: 830px;
+	top: -70px;
+}
+
+.fa-twitter:hover{
+	color: black;
+	background-color: white;
+	
+}
+
+.fa-medium{
+	position: relative;
+	left: 860px;
+	top: -70px;
+}
+
+
+.fa-medium:hover{
+	color: black;
+	background-color: white;
+	
+}
+
+.text-justify{
+	position: relative;
+	top: 90px;
+}
+
+
+.tut{
+	font-size: 15px;
+	font-weight: bold;
+}
+
